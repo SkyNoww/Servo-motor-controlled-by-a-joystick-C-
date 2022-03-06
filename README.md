@@ -1,9 +1,18 @@
 # Servo-motor-controlled-by-a-joystick-C-
 Servo motor controlled by a joystick progam C++
 
+Who ?
+-------------------------
+
 This program comes from U=RI (in youtube)
 
+The goal of 
+-------------------------
+
 The purpose of this project and to be able to control two servomotors using a joystick.
+
+how to do ?
+------------------------
 
 First, Make this setup :
 
