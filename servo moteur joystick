@@ -2,7 +2,8 @@
 
 Servo monServo; //Declare l'utilision d'un servomoteur
 
-char PWM_SERVO = 9, 10; //Servo moteur brancher sur la broche digital 9 
+char PWM_SERVO_1 = 9; //Servo moteur brancher sur la broche analog 10
+char PWM_SERVO_2 = 10; //Servo moteur brancher sur la broche analog 9 
 char JOYSTICK = 9;
 
 int positionServo = 0;
